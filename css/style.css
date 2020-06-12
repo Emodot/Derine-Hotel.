@@ -1,0 +1,46 @@
+.container {
+    width: 60%;
+}
+
+.container-1 {
+    background-color: #002C5C;
+    
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #002C5C;
+}
+
+.col-md-5 {
+    background-color:#002C5C;
+    color: white;
+    padding-top: 30px;
+    padding-left: 70px;
+    padding-right: 70px;
+    width: 500px;
+   
+}
+
+
+
+.btn {
+    height: 40px;
+    background-color: #ffffff;
+    border: none;
+    padding-bottom: 10px;
+    width: 150px;
+    color: rgb(20, 29, 151);
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 30%;
+    margin-top: 10px;
+}
+
+.btn:hover {
+    background-color: rgb(74, 110, 211);
+    color: white;
+} 
+
+    
